@@ -1,8 +1,8 @@
 {
-  "name": "Clumsy Bird",
+  "name": "Larva Lad #2983",
   "description": "MelonJS Flapppy Bird Clone",
-  "repository": "https://github.com/ellisonleao/clumsy-bird",
-  "logo": "https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/touch-icon-iphone.png",
+  "repository": "https://github.com/NFT2626/clumsy-bird",
+  "logo": "https://raw.githubusercontent.com/nft2626/clumsy-bird/gh-pages/data/img/touch-icon-iphone.png",
   "keywords": ["grunt", "melonjs", "games"]
 }
 
